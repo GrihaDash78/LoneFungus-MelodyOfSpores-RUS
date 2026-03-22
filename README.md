@@ -2,7 +2,7 @@
 Неофициальный русский перевод для [LoneFungus: Melody of Spores](https://store.steampowered.com/app/2463220/Lone_Fungus_Melody_of_Spores/) (BASTI GAMES, 2025)
 > Перевод выполнен с помощью DeepSeek с ручными исправлениями.
 ## 📥 Установка
-1. Скачайте [последний релиз](url)
+1. Скачайте [последний релиз](https://github.com/GrihaDash78/LoneFungus-MelodyOfSpores-RUS/releases/latest)
 2. Откройте корневую папку с игрой
    - Для Steam: ПКМ по названию игры -> Управление -> Просмотреть локальные файлы
 3. Скопируйте файлы из архива в папку _Language Files_
